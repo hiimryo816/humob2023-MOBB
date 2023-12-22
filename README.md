@@ -1,5 +1,5 @@
 # HuMob Challenge 2023 - n-th Place Solution - Team MOBB
-This repository contains the code for the nth solution of the [HuMob Challenge 2023](https://connection.mit.edu/humob-challenge-2023) held at SIGSPATIAL in Hamburg, Germany,
+This repository contains the code for the 3rd solution of the [HuMob Challenge 2023](https://connection.mit.edu/humob-challenge-2023) held at SIGSPATIAL in Hamburg, Germany,
 developed by Team MOBB.
 
 ## About Team MOBB
