@@ -4,7 +4,7 @@ developed by Team MOBB.
 
 ## About Team MOBB
 Team MOBB consists of the following members: 
-- [Ryo Koyama](https://www.linkedin.com/in/ryo-koyama-b06a55187/)
+- [Ryo Koyama](https://www.linkedin.com/in/ryo-koyama-%E5%8F%A4%E5%B1%B1%E5%87%8C-b06a55187/)
 - Meisaku Suzuki
 - Yusuke Nakamura
 - Tomohiro Mimura
